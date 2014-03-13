@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'LogHuman.com is a service for reading human-readable logs. Visit https://loghuman.com to learn more.'
   s.authors     = [ 'Todd Zusman', 'Kuldar Kalvik' ]
   s.email       = 'toddzusman@gmail.com'
-  s.files       = [ 'lib/hola.rb' ]
+  s.files       = [ 'lib/loghuman.rb' ]
   s.homepage    = 'https://loghuman.com'
   s.license     = 'MIT'
 end
